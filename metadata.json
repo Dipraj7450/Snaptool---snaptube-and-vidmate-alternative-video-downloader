@@ -1,0 +1,6 @@
+{
+  "name": "SnapLoad",
+  "description": "Universal video & audio downloader with built-in browser, ad-blocker, parallel multi-threaded downloads, MX-style media player, encrypted private vault, file manager, and batch scheduling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
